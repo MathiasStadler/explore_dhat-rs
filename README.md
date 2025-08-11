@@ -13,6 +13,7 @@ programs, similar to those provided by [DHAT].
 
 It also provides heap usage testing capabilities, which let you write tests
 that check things like:
+
 - "This code should do exactly 96 heap allocations".
 - "The peak heap usage of this code should be less than 10 MiB".
 - "This code should free all heap allocations before finishing".
@@ -26,10 +27,9 @@ See the [crate documentation] for details on how to use it.
 ## License
 
 Licensed under either of
-* Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or
-  http://www.apache.org/licenses/LICENSE-2.0)
-* MIT license ([LICENSE-MIT](LICENSE-MIT) or
-  http://opensource.org/licenses/MIT)
+
+- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or
+- MIT license ([LICENSE-MIT](LICENSE-MIT)
 
 at your option.
 
